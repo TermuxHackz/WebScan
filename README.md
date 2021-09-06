@@ -21,29 +21,29 @@ While a network vulnerability scanner scans the web server itself, including its
 ## Tested On
 WebScan has been tested on the following debain and ubuntu based systems and shown to work perfectly
 
-####[+]Parrot OS security
-####[+]Kali Linux 2021
-####[+]Ubuntu
-####[+]Lubuntu
-####[+]Slax Linux
-####[+]BlackArch Linux
-####[+]And Others....
+#### [+]Parrot OS security
+#### [+]Kali Linux 2021
+#### [+]Ubuntu
+#### [+]Lubuntu
+#### [+]Slax Linux
+#### [+]BlackArch Linux
+#### [+]And Others....
 
 # Features of WebScan
-####[1]SQL injection scanning support
-####[2]XSS scanning support
-####[3]Good UI
-####[4}Tests for Internet Connection
+#### [1]SQL injection scanning support
+#### [2]XSS scanning support
+#### [3]Good UI
+#### [4}Tests for Internet Connection
 
 <p>WebScan was coded with love from my heart, as i have worked on this project for some time</p>
 
 # Requirements
-####[1]Internet Connection (Required!!)
-####[2]bs4
-####[3]Requests
-####[4]termcolor
-####[5]Colorama
-####[6]And Others....
+#### [1]Internet Connection (Required!!)
+#### [2]bs4
+#### [3]Requests
+#### [4]termcolor
+#### [5]Colorama
+#### [6]And Others....
 
 # Demo Video Usage
 <video src="video/WebScan.mp4" type="video/mpeg" width="320" height="320" controls>
