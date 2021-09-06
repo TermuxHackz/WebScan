@@ -46,7 +46,7 @@ WebScan has been tested on the following debain and ubuntu based systems and sho
 #### [6]And Others....
 
 # Demo Video Usage
-<img src="WebScan.gif" width="320" height="320"/>
+<img src="WebScan.gif" width="500" height="500"/>
 <br/>
 
 <p>You are also free to download the video for a better understanding of how to use WebScan in your terminal</p>
@@ -54,13 +54,13 @@ Feel free to download WebScan. Click <a href="video/WebScan.mp4" target="_blank"
 
 
 # How to Install and Use in Any Terminal
-'''
+```
 cd $HOME
 git clone https://github.com/TermuxHackz/WebScan.git
 cd WebScan
 pip install -r requirements.txt
 python3 webscan.py
-'''
+```
 
 <h5> in Addition you can also download vuln sql sites <a href="sql-sites.txt" target="_blank" download> here </a> and vuln xSS site <a href="xss-site.txt" target="_blank" download> here </a></h5>
 
