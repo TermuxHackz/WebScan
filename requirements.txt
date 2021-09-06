@@ -1,0 +1,9 @@
+#
+# THis file is required to install necessary requirements to make this WebScan work
+
+bs4==0.0.1
+beautifulsoup4==4.9.3
+requests==2.26.0
+colorama==0.4.4
+termcolor==1.1.0
+urllib3==1.26.6
