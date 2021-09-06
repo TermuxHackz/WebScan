@@ -46,7 +46,7 @@ WebScan has been tested on the following debain and ubuntu based systems and sho
 #### [6]And Others....
 
 # Demo Video Usage
-<img src="WebScan.gif" width="500" height="500"/>
+<img src="WebScan.gif" width="auto" height="500"/>
 <br/>
 
 <p>You are also free to download the video for a better understanding of how to use WebScan in your terminal</p>
