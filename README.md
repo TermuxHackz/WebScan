@@ -46,11 +46,11 @@ WebScan has been tested on the following debain and ubuntu based systems and sho
 #### [6]And Others....
 
 # Demo Video Usage
-<video src="https://github.com/TermuxHackz/WebScan/blob/master/video/WebScan.mp4" width="320" height="320" controls> </video>
+<video src="WebScan.mp4" width="320" height="320" controls> </video>
 <br/>
 
 <p>You are also free to download the video for a better understanding of how to use WebScan in your terminal</p>
-Feel free to download WebScan. Click <a href="https://github.com/TermuxHackz/WebScan/blob/master/video/WebScan.mp4" target="_blank" alt="Download Video" download>here </a>to download.
+Feel free to download WebScan. Click <a href="WebScan.mp4" target="_blank" alt="Download Video" download>here </a>to download.
 
 
 # How to Install and Use in Any Terminal
