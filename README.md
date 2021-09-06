@@ -1,4 +1,4 @@
-# WebSCan
+# WebScan
 WebScan is a web vulnerability Scanning tool, which scans sites for SQL injection and XSS vulnerabilities
 Which is a great tool for web pentesters. Coded in python3, CLI. WebScan is capable of scanning and detecting sql injection vulnerabilities across HTTP and HTTP sites.
 
@@ -46,10 +46,11 @@ WebScan has been tested on the following debain and ubuntu based systems and sho
 #### [6]And Others....
 
 # Demo Video Usage
-<video src="video/WebScan.mp4" type="video/mpeg" width="320" height="320" controls>
-  </video>
+<video src="https://github.com/TermuxHackz/WebScan/blob/master/video/WebScan.mp4" width="320" height="320" controls> </video>
+<br/>
+
 <p>You are also free to download the video for a better understanding of how to use WebScan in your terminal</p>
-Feel free to download WebScan. Click <a href="video/WebScan.mp4" target="_blank" alt="Download Video" download>here </a>to download.
+Feel free to download WebScan. Click <a href="https://github.com/TermuxHackz/WebScan/blob/master/video/WebScan.mp4" target="_blank" alt="Download Video" download>here </a>to download.
 
 
 # How to Install and Use in Any Terminal
