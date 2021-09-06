@@ -47,6 +47,7 @@ WebScan has been tested on the following debain and ubuntu based systems and sho
 
 # Demo Video Usage
 <video src="video/WebScan.mp4" type="video/mpeg" width="320" height="320" controls>
+  </video>
 <p>You are also free to download the video for a better understanding of how to use WebScan in your terminal</p>
 Feel free to download WebScan. Click <a href="video/WebScan.mp4" target="_blank" alt="Download Video" download>here </a>to download.
 
