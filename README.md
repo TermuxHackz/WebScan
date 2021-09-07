@@ -56,13 +56,17 @@ Feel free to download WebScan. Click <a href="video/WebScan.mp4" target="_blank"
 # How to Install and Use in Any Terminal
 ```
 cd $HOME
+
 git clone https://github.com/TermuxHackz/WebScan.git
+
 cd WebScan
+
 pip install -r requirements.txt
+
 python3 webscan.py
 ```
 
-<h5> in Addition you can also download vuln sql sites <a href="sql-sites.txt" target="_blank" download> here </a> and vuln xSS site <a href="xss-site.txt" target="_blank" download> here </a></h5>
+<h3> in Addition you can also download vuln sql sites <a href="sql-sites.txt" target="_blank" download> here </a> and vuln xSS site <a href="xss-site.txt" target="_blank" download> here </a></h3>
 
 
 # Contact Me 
