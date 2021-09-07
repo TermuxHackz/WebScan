@@ -66,7 +66,7 @@ pip install -r requirements.txt
 python3 webscan.py
 ```
 
-<h3> in Addition you can also download vuln sql sites <a href="https://github.com/TermuxHackz/WebScan/blob/master/sql-sites.txt" target="_blank" download> here </a> and vuln xSS site <a href="xss-site.txt" target="_blank" download> here </a></h3>
+<h3> in Addition you can also download vuln sql sites <a href="https://github.com/TermuxHackz/WebScan/blob/master/sql-sites.txt" target="_blank" download> here </a> and vuln xSS site <a href="https://github.com/TermuxHackz/WebScan/blob/master/xss-site.txt" target="_blank" download> here </a></h3>
 
 
 # Contact Me 
